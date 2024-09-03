@@ -1,6 +1,6 @@
 # Weather App
 
-Welcome to the **Weather App**! This application allows you to check the current weather and the forecast for any city using the SheCodes IO Weather API.
+Welcome to the **Weather App**! This application allows you to check the current weather and the forecast for any city using the [SheCodes IO](https://www.shecodes.io/) Weather API.
 
 ## Features
 

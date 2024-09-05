@@ -14,6 +14,5 @@ To run this application, you'll need to have Python installed. You'll also need 
 
 ### Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/python-weather-app.git
+git clone https://github.com/isacoding/python-weather-app.git
 cd python-weather-app

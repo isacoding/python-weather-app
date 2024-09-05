@@ -10,7 +10,7 @@ Welcome to the **Weather App**! This application allows you to check the current
 
 ## Installation
 
-To run this application, you'll need to have Python installed. Additionally, you'll need to install the required packages.
+To run this application, you'll need to have Python installed. You'll also need to install the required packages.
 
 ### Clone the repository:
 
